@@ -1,0 +1,9 @@
+Academy of Py
+
+As Chief Data Scientist of the cities school district, I would like to assist in helping the education board and mayor make the most informed decisions in regards to each school budget and top priorities to increase overall student success.
+
+The first task was to analyze the districts reading and writing scores by taking the average of nearly 40,000 students scores. The next step was to break down each school's results, looking at the top 5 performing schools as well as the bottom 5. I also looked for trends related to school size and type, per student budget, and average scores based on grade level(9th-12th).
+
+The key findings show that small to medium size schools outperformed large institutions. Most math scores were higher at smaller schools(80's-90's) while much lower at large schools(high 60's).Along these same lines, charter schools performed significantly better for all grade levels for both reading and math scores. While charter schools are small in size, this alone is not enough information to conclude that this is the reason for their success which could be due to differences in academic resources or greater time spent with each students individual academic needs. Further analysis would be necessary and encouraged to draw any conclusions.
+
+Another important finding from the analysis was that there is not necessarily a strong correlation between a higher  per student budget and higher test scores. For instance, Bailey High School has a $628 budget per student while Cabrera High School only has a $582 budget per student yet both reading and math scores were higher at this school.
